@@ -1,6 +1,7 @@
 <a href="README.md"><img src="assets/HELLO, WORLD!.png"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicalmongoose&layout=compact)
+👋Hi I'm open for new opportunities!
 
 [badge sources]: #https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
 ## Languages
