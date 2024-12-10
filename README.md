@@ -4,7 +4,7 @@
 
 # Hi there, I'm Drew Lickman! 
 
-- 🌟 **Aspiring Software Engineer** | **Game Developer**  
+- 🌟 **Entrepreneurial Software Engineer and Game Developer**
 - 🎭 Passionate about **innovation**, **creativity**, and **problem-solving**.  
 - 💪 Always **learning** and open for **exciting opportunities**!  
 
