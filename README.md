@@ -52,15 +52,15 @@
 
 ## 🔍 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicalmongoose&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewlickman&layout=compact)
 
 ---
 
 ## 💬 Connect with Me
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/magicalmongoos)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drew-lickman-46406719a/)
-[![My Website](https://img.shields.io/badge/My%20Website-blue?style=for-the-badge)](https://magicalmongoose.github.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drew-lickman/)
+[![My Website](https://img.shields.io/badge/My%20Website-blue?style=for-the-badge)](https://drewlickman.github.io/)
 
 ---
 
